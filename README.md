@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-App para chatear desarrolada con Swift 🗣
+App para chatear desarrollada con Swift 🗣
 <br/>
 La app está desarrollada con [Firebase](https://firebase.google.com/) en donde el usuari@ se registra para poder acceder a los chats correspondientes con otros usuari@s.
 
